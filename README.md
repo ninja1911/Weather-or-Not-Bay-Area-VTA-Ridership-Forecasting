@@ -45,21 +45,6 @@
 * Python 3.8+
 * `pip` package manager
 
-### Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/<your_username>/vta-ridership-forecasting.git
-cd vta-ridership-forecasting
-
-# Create & activate a virtual environment (optional but recommended)
-python3 -m venv venv
-source venv/bin/activate  # on Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ## Workflow
 
 ### 1. Data Preprocessing
